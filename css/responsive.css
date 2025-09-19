@@ -15,6 +15,30 @@
         margin: auto;
         padding-bottom: 4rem;
     }
+
+    .steps{
+        margin-bottom: 0;
+    }
+
+    .steps .col{
+        width: auto;
+    }
+
+    .why-us{
+        background-color: #111111bf;
+    }
+
+    .why-us .container h2{
+        padding-top: 25px;
+    }
+
+    .why-us .col-left{
+        width: auto;
+    }
+
+    .why-us .col-right{
+        width: auto;
+    }
 }
 
 @media screen and (max-width: 768px) {
